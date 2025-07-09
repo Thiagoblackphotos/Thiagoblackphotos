@@ -1,5 +1,5 @@
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&Color=d3d3d3%20">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1C1C1C&reversal=true&section=header">
   
 
 </head>
@@ -50,7 +50,7 @@
       <a href="mailto:thiago.life.world@gmail.com">E-mail</a>
     </p>
   </section>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&Color=d3d3d3%20"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1C1C1C&reversal=true&section=footer"/>
 
 
   
