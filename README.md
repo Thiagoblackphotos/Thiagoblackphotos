@@ -7,7 +7,7 @@
 
   <header>
     <h1> Olá! Eu sou o Thiago Andrade</h1>
-    <p>Fotógrafo apaixonado por tecnologia e atualmente em transição de carreira para a área de programação.</p>
+    <p>atualmente em transição de carreira para a área de programação.</p>
   </header>
 
   <section>
