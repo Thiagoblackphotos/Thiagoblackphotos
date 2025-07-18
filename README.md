@@ -30,7 +30,7 @@
   <section>
     <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoblackphotos&layout=compact&theme=dracula" alt="Linguagens mais usadas">
-      <img src="https://github-readme-stats.vercel.app/api?username=Thiagoblackphotos&show_icons=true&theme=dracula" alt="Estatísticas do GitHub">
+      
     </div>
     
 <div align="center">
